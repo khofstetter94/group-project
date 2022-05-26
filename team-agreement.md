@@ -1,5 +1,10 @@
 # Team Agreement
 
+- KC Hofstetter
+- Brentice Loper
+- Falashade Greene
+- Riki Plaza
+
 ## Cooperation Plan
 
 - What are the key strengths of each person on the team?
